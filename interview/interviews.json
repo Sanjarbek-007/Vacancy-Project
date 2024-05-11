@@ -1,0 +1,22 @@
+[
+  {
+    "Companies": ["Company A"],
+    "InterviewDate": "2024-05-10",
+    "Recruiter": "Recruiter X"
+  },
+  {
+    "Companies": ["Company C"],
+    "InterviewDate": "2024-05-15",
+    "Recruiter": "Recruiter Y"
+  },
+  {
+    "Companies": ["Google"],
+    "InterviewDate": "2024-06-01",
+    "Recruiter": "John"
+  },
+  {
+    "Companies": ["Amazon"],
+    "InterviewDate": "2024-05-28",
+    "Recruiter": "Anna"
+  }
+]
